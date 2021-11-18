@@ -1,0 +1,53 @@
+h4 {
+    margin-bottom: 0;
+}
+
+small {
+    text-transform: capitalize;
+}
+
+.temp-container {
+    display:flex;
+    justify-content: center;
+}
+
+.temp-container > img {
+    height: 7em;
+    width: 10em;
+}
+
+.temp {
+    font-size: 70px;
+}
+
+.unit {
+    font-size: 30px;
+    line-height: 2.6em;
+}
+
+.card {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    padding:1%;
+}
+
+.rain-wind-container {
+    display:flex;
+    justify-content: space-around;
+}
+
+.rain-wind-container img {
+    height: 2em;
+    width: 2em;
+}
+
+.rain-wind-label {
+    display:flex;
+    justify-content: space-around;
+}
+
+.card-container {
+    display:flex;
+    gap:15px;
+}
